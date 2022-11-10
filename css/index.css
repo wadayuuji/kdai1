@@ -1,0 +1,30 @@
+/* CSS Document */
+body{
+	background-color: #7DF47D;
+}
+.title{
+	font-size: 50px;
+}
+.sub{
+	font-size:30px;
+}
+.main{
+	border:2px solid #000;
+	margin:5px;
+}
+#logo{
+	width: 100px;
+	
+}
+#pic{
+	width: 500px;
+	
+}
+#pic1{
+	width: 500px;
+	
+}
+#pic2{
+	width: 500px;
+	
+}

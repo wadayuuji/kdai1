@@ -1,0 +1,36 @@
+/* CSS Document */
+
+main{
+	background-color: #7DF47D
+}
+#div0{
+	text-align: center;
+	width: 120px;
+	
+}
+#div1{
+	font-size:40px;
+	font-family:"創英角ポップ体";
+	text-align: center;
+}
+#tel{
+	margin-top: 40px;
+}
+.cl1{
+	font-size: 40px;
+}
+.cl2{
+	font-size:20px;
+	margin:10px;
+}
+#logo{
+	width: 100px;
+}
+#pic2{
+	width: 500px;
+	
+}
+#dri1{
+	width: 500px;
+}
+
